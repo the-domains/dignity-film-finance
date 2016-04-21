@@ -1,0 +1,28 @@
+name: Dignity Film Finance
+favicon: null
+layout_spectrum: 0.07959549967199564
+typography_spectrum: 0.20216808305121958
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.033347444608807564
+  lightness: 0.1840174226090312
+  saturation: 0.6326205180957913
+  rhythmicContrast: 0.0834900017362088
+purpose: []
